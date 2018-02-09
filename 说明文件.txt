@@ -1,0 +1,5 @@
+首先允许server ，充当数据库角色。参考http://www.cnblogs.com/guoshuli/p/7929768.html
+允许成功后，运行vue
+vue文件运行，在命令窗口中，进入运行的目录
+运行npm install。(安装node_modules)
+npm run dev (package.json这里面设置的)
