@@ -20,7 +20,7 @@ git clone https://github.com/guofuli/vueProject.git
      
      3、 npm  run server
 
-2、再打开一个新的名称窗口，进入到vuedom3目录
+2、再打开一个新的名称窗口，进入到vuedom3目录  vuedom3参照https://github.com/guofuli/vuedom3.git
 
      1、 cd vuedom3
      
